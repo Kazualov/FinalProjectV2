@@ -1,0 +1,15 @@
+﻿  CharacterBuilder.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterFemaleBuilder.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterGeneratingApp.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(6,5): error C2084: функция "int main(void)" уже имеет текст реализации
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(6): message : см. предыдущее определение "main"
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterMaleBuilder.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterMaleBuilder.cpp(27,6): error C2228: выражение слева от ".setTorso" должно представлять класс, структуру или объединение
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterMaleBuilder.cpp(27,6): message : тип: Character *
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterMaleBuilder.cpp(27,6): message : возможно, имеется в виду "->"
+  Создание кода...
